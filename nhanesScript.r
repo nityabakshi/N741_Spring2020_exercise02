@@ -1,4 +1,4 @@
-
+library(hexbin)
 
 # use the data() function
 # load NHANES dataset from the hexbin package
